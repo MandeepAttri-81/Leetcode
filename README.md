@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
