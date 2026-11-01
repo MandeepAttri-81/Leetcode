@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
