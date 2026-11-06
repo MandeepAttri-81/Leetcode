@@ -32,6 +32,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1051-height-checker](https://github.com/MandeepAttri-81/Leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MandeepAttri-81/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3467-transform-array-by-parity](https://github.com/MandeepAttri-81/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MandeepAttri-81/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1051-height-checker](https://github.com/MandeepAttri-81/Leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MandeepAttri-81/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3467-transform-array-by-parity](https://github.com/MandeepAttri-81/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MandeepAttri-81/Leetcode/tree/master/1051-height-checker) |
+| [3467-transform-array-by-parity](https://github.com/MandeepAttri-81/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Bubble Sort
 |  |
 | ------- |
