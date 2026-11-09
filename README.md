@@ -41,6 +41,7 @@
 | [0002-add-two-numbers](https://github.com/MandeepAttri-81/Leetcode/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
 | [3536-maximum-product-of-two-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MandeepAttri-81/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
