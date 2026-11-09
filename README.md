@@ -12,6 +12,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MandeepAttri-81/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MandeepAttri-81/Leetcode/tree/master/0011-container-with-most-water) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1051-height-checker](https://github.com/MandeepAttri-81/Leetcode/tree/master/1051-height-checker) |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MandeepAttri-81/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
