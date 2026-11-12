@@ -35,6 +35,7 @@
 | [1051-height-checker](https://github.com/MandeepAttri-81/Leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MandeepAttri-81/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MandeepAttri-81/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3467-transform-array-by-parity](https://github.com/MandeepAttri-81/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MandeepAttri-81/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
