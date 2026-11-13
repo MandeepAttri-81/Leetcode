@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -16,16 +17,19 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MandeepAttri-81/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Array
 |  |
 | ------- |
