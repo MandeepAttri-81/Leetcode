@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MandeepAttri-81/Leetcode/tree/master/0002-add-two-numbers) |
+| [0365-water-and-jug-problem](https://github.com/MandeepAttri-81/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
@@ -102,4 +103,28 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MandeepAttri-81/Leetcode/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/MandeepAttri-81/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/MandeepAttri-81/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/MandeepAttri-81/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/MandeepAttri-81/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/MandeepAttri-81/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/MandeepAttri-81/Leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
