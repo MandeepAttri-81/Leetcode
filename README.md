@@ -136,4 +136,12 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/MandeepAttri-81/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/MandeepAttri-81/Leetcode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/MandeepAttri-81/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
