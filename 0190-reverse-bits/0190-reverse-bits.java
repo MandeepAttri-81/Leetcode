@@ -1,0 +1,13 @@
+class Solution {
+    public int reverseBits(int n) {
+         String s1 = Integer.toBinaryString(n);
+         int rev =0;
+         for(int i =0;i<32;i++){
+         int digit=n&1;
+         rev=(rev<<1)|digit;
+         n=n>>1;
+         }
+         return rev;
+    }
+
+}
