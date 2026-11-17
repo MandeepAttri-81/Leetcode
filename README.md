@@ -85,6 +85,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/MandeepAttri-81/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MandeepAttri-81/Leetcode/tree/master/0011-container-with-most-water) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/MandeepAttri-81/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/MandeepAttri-81/Leetcode/tree/master/0338-counting-bits) |
+| [2957-remove-adjacent-almost-equal-characters](https://github.com/MandeepAttri-81/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
