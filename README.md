@@ -83,6 +83,7 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MandeepAttri-81/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
