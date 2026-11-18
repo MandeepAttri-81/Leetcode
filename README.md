@@ -20,6 +20,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MandeepAttri-81/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MandeepAttri-81/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Stack
@@ -92,6 +94,7 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/MandeepAttri-81/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
