@@ -37,6 +37,7 @@
 | [0011-container-with-most-water](https://github.com/MandeepAttri-81/Leetcode/tree/master/0011-container-with-most-water) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0682-baseball-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/0682-baseball-game) |
 | [1051-height-checker](https://github.com/MandeepAttri-81/Leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MandeepAttri-81/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -93,6 +94,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/MandeepAttri-81/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -107,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
