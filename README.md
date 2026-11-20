@@ -93,6 +93,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MandeepAttri-81/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MandeepAttri-81/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3174-clear-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/MandeepAttri-81/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0682-baseball-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3174-clear-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
