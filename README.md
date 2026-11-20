@@ -18,6 +18,7 @@
 | [0061-rotate-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0844-backspace-string-compare](https://github.com/MandeepAttri-81/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/MandeepAttri-81/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MandeepAttri-81/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -85,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/MandeepAttri-81/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/MandeepAttri-81/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/MandeepAttri-81/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/MandeepAttri-81/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/MandeepAttri-81/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3174-clear-digits) |
