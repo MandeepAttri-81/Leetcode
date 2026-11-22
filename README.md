@@ -92,6 +92,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MandeepAttri-81/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MandeepAttri-81/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/MandeepAttri-81/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
