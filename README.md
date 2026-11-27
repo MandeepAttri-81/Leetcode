@@ -57,6 +57,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
+| [3360-stone-removal-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MandeepAttri-81/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -125,6 +126,7 @@
 | [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
