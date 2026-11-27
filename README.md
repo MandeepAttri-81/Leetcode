@@ -93,6 +93,7 @@
 | [0844-backspace-string-compare](https://github.com/MandeepAttri-81/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/MandeepAttri-81/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MandeepAttri-81/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/MandeepAttri-81/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/MandeepAttri-81/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/MandeepAttri-81/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MandeepAttri-81/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1518-water-bottles](https://github.com/MandeepAttri-81/Leetcode/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/MandeepAttri-81/Leetcode/tree/master/3174-clear-digits) |
@@ -177,6 +179,7 @@
 | [0191-number-of-1-bits](https://github.com/MandeepAttri-81/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/MandeepAttri-81/Leetcode/tree/master/0338-counting-bits) |
 | [0868-binary-gap](https://github.com/MandeepAttri-81/Leetcode/tree/master/0868-binary-gap) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MandeepAttri-81/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Divide and Conquer
 |  |
 | ------- |
