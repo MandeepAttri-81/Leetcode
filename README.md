@@ -25,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MandeepAttri-81/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/MandeepAttri-81/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MandeepAttri-81/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/MandeepAttri-81/Leetcode/tree/master/0012-integer-to-roman) |
 | [0365-water-and-jug-problem](https://github.com/MandeepAttri-81/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MandeepAttri-81/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MandeepAttri-81/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -86,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MandeepAttri-81/Leetcode/tree/master/0012-integer-to-roman) |
 | [0844-backspace-string-compare](https://github.com/MandeepAttri-81/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/MandeepAttri-81/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MandeepAttri-81/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
